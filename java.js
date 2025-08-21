@@ -64,16 +64,16 @@ document.querySelectorAll('.flower-container').forEach(el => {
     document.addEventListener("DOMContentLoaded", () => {
     // Messages for each flower
     const flowerMessages = [
-        "Alam kong ngayon, mga salita lang ito walang laman...",
-        "Para sa’kin, ang mahalaga ay totoo at masaya ka.",
-        "Pero balang araw, sisiguraduhin kong may laman at patunay ang lahat ng sinabi ko.",
-        "Ako ‘to, si Arcee Santos at habang humihinga ako, hindi ako bibitaw sa mga salitang sinabi ko sa’yo.",
-        "Congratulations, Maria 🫶👏🤍, For now, ito muna ang kaya kong ibigay sa’yo. Alam kong bawal pa tayong mag-meet kasi we’re both not ready yet, and that’s okay.Good luck sa journey na tatahakin mo, at sa lahat ng challenges na ibibigay sa’yo ni Lord, sana ma-embrace mo nang buong puso.If ever you need help or someone to talk to, you can always count on memessage mo lang ako.Again, congratulations! I hope all your dreams come true. Tiwala lang, padayon. Love yahhh — HAHAHA 😆",
-        "At kung sakaling may makita kang ibang mas makakapagpasaya sa’yo, gusto ko maging honest ka lang sa’kin. Go for it, don’t mind me.",
-        "Pangako, Hindi Salita🤍",
-        "Nag-promise ako sa’yo na kapag naging successful ako, ipu-pursue kita gagawin ko ang lahat para tuparin ‘yon.",
-        "Kapag dumating yung tamang panahon at okay na lahat, andito pa rin ako.",
-        "Sa ngayon, gusto ko muna na mas makilala ka pa, at sana, hindi ka magsawa sa’kin sa pangungulit ko."
+        "Pero sana sa tamang panahon, kapag handa na lahat…",
+        "Hindi mo naman kailangang maghintay.",
+        "Doon ko maipapakita sa’yo yung totoo kong plano.",
+        "Ako ’to si Chichay, tahimik man minsan, pero nandito pa rin. Hindi lahat kailangang madalas ipaalala, minsan mas maganda kapag sa tamang oras mo mararamdaman.",
+        "Alam kong marami ka pang pagdadaanan at haharapin sa journey mo, at normal lang ‘yon. Gusto ko lang malaman mo na kahit hindi tayo madalas mag-usap, nandito lang ako. Kung kailangan mo ng makikinig o makakatulong kahit sa maliit na bagay, huwag kang mahihiya message mo lang ako.",
+        "May mga bagay pa akong kailangang ayusin, kaya nagbigay ako ng panahon hindi para itali ka, kundi para ipakita sa’yo na seryoso ako sa mga sinabi ko.",
+        "Napansin mo siguro na medyo bihira na ako mag-message ngayon.",
+        "Hindi dahil nawalan ako ng gana, kundi ayokong maging istorbo o parang routine na lang ako sa’yo.",
+        "Sinabi ko na dati, hindi pa ngayon yung oras para ipursue kita.",
+        "Salamat sa mga pagkakataon na nag-open up ka sa’kin nitong mga araw na ‘to kahit sa laro lang tayo unang nagkakilala, mahalaga na ‘yon para sa’kin."
     ];
 
     const flowers = document.querySelectorAll('.flower-container');
@@ -92,3 +92,4 @@ document.querySelectorAll('.flower-container').forEach(el => {
         });
     });
 });
+
